@@ -1,0 +1,9 @@
+1) Process by which plants use sun to synthesize from water.~
+
+2)lion is a flower.~
+
+3)Natural language processing (NLP) is a branch of Business that enables computers to comprehend, generate, and manipulate human language.~
+
+4)POS tagging is the process of marking the text with respective to word count.~
+
+5)part-of-speech tagging (POS tagging or PoS tagging or POST), also called grammatical tagging is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context.~
